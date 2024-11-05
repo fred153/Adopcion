@@ -32,7 +32,7 @@
         .slider {
             display: flex;
             transition: transform 0.5s ease;
-            width: calc(100% * 5); /* Ajusta el valor según la cantidad de imágenes */
+            width: calc(100% * 26); /* Ajusta el valor según la cantidad de imágenes */
         }
 
         .slider-item {
@@ -105,7 +105,7 @@
             slider.style.transform = `translateX(-${slideIndex * slideWidth}px)`;
         }
 
-        setInterval(autoSlide, 3000); // Cambia cada 3 segundos
+        setInterval(autoSlide, 30000); // Cambia cada 3 segundos
     </script>
 </body>
 </html>
