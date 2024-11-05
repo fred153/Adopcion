@@ -1,11 +1,11 @@
 # Adopcion
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Diccionario de Imágenes</title>
+    <title>Diccionario de Imágenes desde Google Drive</title>
     <style>
-        /* Estilos básicos */
         body {
             font-family: Arial, sans-serif;
             display: flex;
@@ -53,27 +53,26 @@
 </head>
 <body>
 
-    <h1>Diccionario de Imágenes</h1>
+    <h1>Diccionario de Imágenes desde Google Drive</h1>
 
     <div class="dictionary">
         <!-- Primera imagen -->
         <div class="dictionary-item">
-            <img src="ruta-a-tu-imagen1.jpg" alt="Descripción de la Imagen 1">
+            <img src="https://drive.google.com/uc?export=view&id=ID_DE_LA_IMAGEN1" alt="Descripción de la Imagen 1">
             <h3>Nombre de la Imagen 1</h3>
             <p>Descripción breve de la imagen 1.</p>
         </div>
 
         <!-- Segunda imagen -->
         <div class="dictionary-item">
-            <img src="ruta-a-tu-imagen2.jpg" alt="Descripción de la Imagen 2">
+            <img src="https://drive.google.com/uc?export=view&id=ID_DE_LA_IMAGEN2" alt="Descripción de la Imagen 2">
             <h3>Nombre de la Imagen 2</h3>
             <p>Descripción breve de la imagen 2.</p>
         </div>
 
-        <!-- Agrega más imágenes según sea necesario -->
         <!-- Tercer imagen -->
         <div class="dictionary-item">
-            <img src="ruta-a-tu-imagen3.jpg" alt="Descripción de la Imagen 3">
+            <img src="https://drive.google.com/uc?export=view&id=ID_DE_LA_IMAGEN3" alt="Descripción de la Imagen 3">
             <h3>Nombre de la Imagen 3</h3>
             <p>Descripción breve de la imagen 3.</p>
         </div>
@@ -81,3 +80,4 @@
 
 </body>
 </html>
+
