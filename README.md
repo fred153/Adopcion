@@ -69,7 +69,7 @@
         <div class="slider" id="slider">
             <!-- Primera imagen -->
             <div class="slider-item">
-                <img src="https://drive.google.com/uc?export=view&id=ID_DE_LA_IMAGEN1" alt="Descripción de la Imagen 1">
+                <img src="https://drive.google.com/file/d/1x5pQ3rQ263u0ocek_jKaak9pKlVPVI2s/view?usp=sharing">
                 <h3>Nombre de la Imagen 1</h3>
                 <p>Descripción breve de la imagen 1.</p>
             </div>
