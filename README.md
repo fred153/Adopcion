@@ -69,29 +69,29 @@
         <div class="slider" id="slider">
             <!-- Primera imagen -->
             <div class="slider-item">
-                <img src="https://drive.google.com/file/d/1x5pQ3rQ263u0ocek_jKaak9pKlVPVI2s/view?usp=sharing">
+                <img src="https://drive.google.com/uc?export=view&id=1x5pQ3rQ263u0ocek_jKaak9pKlVPVI2s" alt="Descripción de la Imagen 1">
                 <h3>Nombre de la Imagen 1</h3>
                 <p>Descripción breve de la imagen 1.</p>
             </div>
 
             <!-- Segunda imagen -->
             <div class="slider-item">
-                <img src="https://drive.google.com/file/d/1x1nhveqE6puT69gc1_w_Qe2EMekdfrJ0/view?usp=sharing">
+                <img src="https://drive.google.com/uc?export=view&id=1x1nhveqE6puT69gc1_w_Qe2EMekdfrJ0" alt="Descripción de la Imagen 2">
                 <h3>Nombre de la Imagen 2</h3>
                 <p>Descripción breve de la imagen 2.</p>
             </div>
 
             <!-- Tercer imagen -->
             <div class="slider-item">
-                <img src="https://drive.google.com/file/d/1wy06KzpZ0FRzNmqtCFgzh2mA2_4hQhTs/view?usp=sharing">
+                <img src="https://drive.google.com/uc?export=view&id=1wy06KzpZ0FRzNmqtCFgzh2mA2_4hQhTs" alt="Descripción de la Imagen 3">
                 <h3>Nombre de la Imagen 3</h3>
                 <p>Descripción breve de la imagen 3.</p>
             </div>
 
             <!-- Cuarto imagen -->
             <div class="slider-item">
-                <img src="https://drive.google.com/file/d/1wj-5DKdiDzwVcVOJKao9WH6sroyziEAK/view?usp=sharing">
-                <h4>Nombre de la Imagen 3</h4>
+                <img src="https://drive.google.com/uc?export=view&id=1wj-5DKdiDzwVcVOJKao9WH6sroyziEAK" alt="Descripción de la Imagen 4">
+                <h3>Nombre de la Imagen 4</h3>
                 <p>Descripción breve de la imagen 4.</p>
             </div>
             
