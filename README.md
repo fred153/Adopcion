@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -65,7 +64,7 @@
 </head>
 <body>
     <header>
-        <h1>Semillero Siagma</h1>
+        <h1>Impacto ambiental del plástico: Análisis sobre practicas contaminantes de la industria alimenticia a nivel global</h1>
     </header>
 
     <main>
