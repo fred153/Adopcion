@@ -89,20 +89,19 @@
 
     </main>
 
-    <section class="content-box">
+     <section class="content-box">
         <h2>Bibliografía</h2>
-        <p><a href="https://www.swissinfo.ch/spa/coca-cola-pepsico-y-nestl%C3%A9-l%C3%ADderes-en-residuos-pl%C3%A1sticos-seg%C3%BAn-greenpeace/48059072"target="_blank">https://www.swissinfo.ch/spa/coca-cola-pepsico-y-nestl%C3%A9-l%C3%ADderes-en-residuos-pl%C3%A1sticos-seg%C3%BAn-greenpeace/48059072</a>
-                <p><a href="https://elpais.com/clima-y-medio-ambiente/2023-11-15/la-fiscalia-de-nueva-york-denuncia-a-pepsico-por-contaminar-un-rio-con-envases-de-plastico-de-un-solo-uso."target="_blank">https://elpais.com/clima-y-medio-ambiente/2023-11-15/la-fiscalia-de-nueva-york-denuncia-a-pepsico-por-contaminar-un-rio-con-envases-de-plastico-de-un-solo-uso.</a>
-                    <p><a href="html#:~:text=La%20fiscal%C3%ADa%20de%20Nueva%20York%20ha%20anunciado%20este%20mi%C3%A9rcoles%20una,pl%C3%A1stico%20de%20un%20solo%20uso."target="_blank">html#:~:text=La%20fiscal%C3%ADa%20de%20Nueva%20York%20ha%20anunciado%20este%20mi%C3%A9rcoles%20una,pl%C3%A1stico%20de%20un%20solo%20uso.</a>
-                    <p><a href="https://www.worldcomplianceassociation.com/4361/noticia-nueva-york-inicia-historica-demanda-contra-pepsico-por-contaminacion-plastica.html#:~:text=28%2F11%2F2023-,Nueva%20York%20inicia%20hist%C3%B3rica%20demanda%20contra%20PepsiCo%20por%20contaminaci%C3%B3n%20pl%C3%A1stica,pl%C3%A1stico%20de%20un%20solo%20uso."target="_blank">https://www.worldcomplianceassociation.com/4361/noticia-nueva-york-inicia-historica-demanda-contra-pepsico-por-contaminacion-plastica.html#:~:text=28%2F11%2F2023-,Nueva%20York%20inicia%20hist%C3%B3rica%20demanda%20contra%20PepsiCo%20por%20contaminaci%C3%B3n%20pl%C3%A1stica,pl%C3%A1stico%20de%20un%20solo%20uso.</a>
-                        <p><a href=" https://www.greenpeace.org/mexico/noticia/49527/en-lugar-de-reducir-nestle-quiere-quemar-su-basura-plastica/"target="_blank"> https://www.greenpeace.org/mexico/noticia/49527/en-lugar-de-reducir-nestle-quiere-quemar-su-basura-plastica/
-                            <p><a href="https://action.eko.org/a/nestle-la-cuarta-empresa-mas-contaminante-del-mundo"target="_blank">https://action.eko.org/a/nestle-la-cuarta-empresa-mas-contaminante-del-mundo</a>
-                                <p><a href="https://okdiario.com/economia/pepsico-mas-oscura-podio-empresas-contaminantes-mientras-esconde-sus-cifras-4839734"target="_blank">https://https://okdiario.com/economia/pepsico-mas-oscura-podio-empresas-contaminantes-mientras-esconde-sus-cifras-4839734</a>
-                                    <p><a href="https://www.iberdrola.com/sostenibilidad/contra-cambio-climatico/cop27"target="_blank">https://www.iberdrola.com/sostenibilidad/contra-cambio-climatico/cop27</a>
-                                        <p><a href="https://www.bbc.com/mundo/noticias-63145143"target="_blank">https://www.bbc.com/mundo/noticias-63145143</a>
-                                            <p><a href="https://www.elespectador.com/bogota/multan-a-coca-cola-por-haber-contaminado-humedal-de-fontibon-article-31775/"target="_blank">https://www.elespectador.com/bogota/multan-a-coca-cola-por-haber-contaminado-humedal-de-fontibon-article-31775/</a>
-                                                <p><a href="https://elcierredigital.com/salud-y-bienestar/cara-b-bebidas-coca-cola-lider-emision-plasticos-medidas-sin-efecto"target="_blank">https://elcierredigital.com/salud-y-bienestar/cara-b-bebidas-coca-cola-lider-emision-plasticos-medidas-sin-efecto</a>
-                                                    <p><a href="https://climatica.coop/cinco-empresas-responsables-24-plasticos/#:~:text=De%20los%20909.771%20art%C3%ADculos%20con,Morris%20International%20de%20u%202%25."target="_blank">https://climatica.coop/cinco-empresas-responsables-24-plasticos/#:~:text
+        <a href="https://www.swissinfo.ch/spa/coca-cola-pepsico-y-nestl%C3%A9-l%C3%ADderes-en-residuos-pl%C3%A1sticos-seg%C3%BAn-greenpeace/48059072" target="_blank">Coca Cola, PepsiCo y Nestlé líderes en residuos plásticos según Greenpeace</a>
+        <a href="https://elpais.com/clima-y-medio-ambiente/2023-11-15/la-fiscalia-de-nueva-york-denuncia-a-pepsico-por-contaminar-un-rio-con-envases-de-plastico-de-un-solo-uso" target="_blank">La fiscalía de Nueva York denuncia a PepsiCo por contaminar un río con plásticos</a>
+        <a href="https://www.worldcomplianceassociation.com/4361/noticia-nueva-york-inicia-historica-demanda-contra-pepsico-por-contaminacion-plastica.html#:~:text=28%2F11%2F2023-,Nueva%20York%20inicia%20hist%C3%B3rica%20demanda%20contra%20PepsiCo%20por%20contaminaci%C3%B3n%20pl%C3%A1stica,pl%C3%A1stico%20de%20un%20solo%20uso." target="_blank">Nueva York inicia histórica demanda contra PepsiCo por contaminación plástica</a>
+        <a href="https://www.greenpeace.org/mexico/noticia/49527/en-lugar-de-reducir-nestle-quiere-quemar-su-basura-plastica/" target="_blank">Nestlé quiere quemar su basura plástica, en lugar de reducirla</a>
+        <a href="https://action.eko.org/a/nestle-la-cuarta-empresa-mas-contaminante-del-mundo" target="_blank">Nestlé, la cuarta empresa más contaminante del mundo</a>
+        <a href="https://okdiario.com/economia/pepsico-mas-oscura-podio-empresas-contaminantes-mientras-esconde-sus-cifras-4839734" target="_blank">PepsiCo, más oscura en el podio de empresas contaminantes</a>
+        <a href="https://www.iberdrola.com/sostenibilidad/contra-cambio-climatico/cop27" target="_blank">COP27 y su relación con las empresas contaminantes</a>
+        <a href="https://www.bbc.com/mundo/noticias-63145143" target="_blank">BBC: Coca Cola y su impacto ambiental</a>
+        <a href="https://www.elespectador.com/bogota/multan-a-coca-cola-por-haber-contaminado-humedal-de-fontibon-article-31775/" target="_blank">Multan a Coca Cola por contaminar el humedal de Fontibón</a>
+        <a href="https://elcierredigital.com/salud-y-bienestar/cara-b-bebidas-coca-cola-lider-emision-plasticos-medidas-sin-efecto" target="_blank">Coca Cola, líder en emisión de plásticos y sus medidas sin efecto</a>
+        <a href="https://climatica.coop/cinco-empresas-responsables-24-plasticos/#:~:text=De%20los%20909.771%20art%C3%ADculos%20con,Morris%20International%20de%20u%202%25." target="_blank">Cinco empresas responsables del 24% de plásticos globales</a>
     </section>
 
     <footer>
